@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ComposeBackPressHandler</string>
+    <string name="list_screen">List Screen</string>
+    <string name="detail_screen">Detail Screen</string>
+    <string name="detail_screen_toolbar_title">Detail</string>
+    <string name="back">Back</string>
+    <string name="to_detail_screen">Open Detail Screen</string>
+</resources>
